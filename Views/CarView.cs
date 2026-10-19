@@ -6,7 +6,7 @@ public class CarView
 {
     public void ShowCars(List<Car> cars)
     {
-        Console.WriteLine("=== СПИСОК АВТОМОБИЛЕЙ ===");
+        Console.WriteLine("* СПИСОК АВТОМОБИЛЕЙ *");
         if (cars.Count == 0)
         {
             Console.WriteLine("Список пуст.");
@@ -21,7 +21,7 @@ public class CarView
 
     public void ShowCar(Car car)
     {
-        Console.WriteLine("=== АВТОМОБИЛЬ ===");
+        Console.WriteLine("$$$ АВТОМОБИЛЬ $$$");
         Console.WriteLine($"ID: {car.Id}");
         Console.WriteLine($"Марка: {car.Brand}");
         Console.WriteLine($"Модель: {car.Model}");

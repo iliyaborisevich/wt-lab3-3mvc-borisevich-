@@ -70,7 +70,7 @@ public class CarController
         while (true)
         {
             Console.WriteLine();
-            Console.WriteLine("=== МЕНЮ ===");
+            Console.WriteLine("* МЕНЮ *");
             Console.WriteLine("1. Показать все автомобили");
             Console.WriteLine("2. Найти автомобиль по ID");
             Console.WriteLine("3. Добавить автомобиль");

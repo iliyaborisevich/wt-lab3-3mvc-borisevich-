@@ -12,3 +12,4 @@ C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\obj\Debug\net8.0\refint\wt-lab3-3m
 C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\obj\Debug\net8.0\wt-lab3-3mvc-borisevich.pdb
 C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\obj\Debug\net8.0\wt-lab3-3mvc-borisevich.genruntimeconfig.cache
 C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\obj\Debug\net8.0\ref\wt-lab3-3mvc-borisevich.dll
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\obj\Debug\net8.0\wt-lab3-3mvc-borisevich.sourcelink.json
