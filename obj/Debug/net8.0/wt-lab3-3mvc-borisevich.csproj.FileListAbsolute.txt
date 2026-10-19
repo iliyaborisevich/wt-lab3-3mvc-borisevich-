@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\bin\Debug\net8.0\wt-lab3-3mvc-borisevich.exe
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\bin\Debug\net8.0\wt-lab3-3mvc-borisevich.deps.json
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\bin\Debug\net8.0\wt-lab3-3mvc-borisevich.runtimeconfig.json
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\bin\Debug\net8.0\wt-lab3-3mvc-borisevich.dll
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\bin\Debug\net8.0\wt-lab3-3mvc-borisevich.pdb
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\obj\Debug\net8.0\wt-lab3-3mvc-borisevich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\obj\Debug\net8.0\wt-lab3-3mvc-borisevich.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\obj\Debug\net8.0\wt-lab3-3mvc-borisevich.AssemblyInfo.cs
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\obj\Debug\net8.0\wt-lab3-3mvc-borisevich.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\obj\Debug\net8.0\wt-lab3-3mvc-borisevich.dll
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\obj\Debug\net8.0\refint\wt-lab3-3mvc-borisevich.dll
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\obj\Debug\net8.0\wt-lab3-3mvc-borisevich.pdb
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\obj\Debug\net8.0\wt-lab3-3mvc-borisevich.genruntimeconfig.cache
+C:\Users\user\Desktop\wt-lab3-3mvc-borisevich\obj\Debug\net8.0\ref\wt-lab3-3mvc-borisevich.dll
