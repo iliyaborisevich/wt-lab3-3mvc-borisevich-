@@ -13,7 +13,7 @@ public class CarController
         cars = new List<Car>
         {
             new Car { Id = 1, Brand = "Toyota", Model = "Camry", Year = 2022, PricePerDay = 75, IsAvailable = true },
-            new Car { Id = 2, Brand = "BMW", Model = "X5", Year = 2021, PricePerDay = 150, IsAvailable = true },
+            new Car { Id = 2, Brand = "BMW", Model = "X5", Year = 2021, PricePerDay = 150, IsAvailable = false },
             new Car { Id = 3, Brand = "Kia", Model = "Rio", Year = 2020, PricePerDay = 45, IsAvailable = false }
         };
         view = new CarView();
